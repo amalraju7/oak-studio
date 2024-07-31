@@ -8,7 +8,7 @@ https://oak-studio.vercel.app/ <br />
 ### Images of The Fashion Studio Website:
 ![HOME](https://github.com/amalraju7/oak-studio/blob/main/Oak-Home-Desktop.png)
 ![ABOUT](https://github.com/amalraju7/oak-studio/blob/main/Oak-About-Desktop.png)
-![HOME](https://github.com/amalraju7/oak-studio/blob/main/Oak-Home-Moblie.png)
+![HOME](https://github.com/amalraju7/oak-studio/blob/main/Oak-Home-Mobile.png)
 ![ABOUT](https://github.com/amalraju7/oak-studio/blob/main/Oak-About-Mobile.png)
 
 
